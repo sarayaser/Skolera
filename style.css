@@ -1,0 +1,116 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+.full-container {
+    /*    border: 3px solid red;*/
+    height: 650px;
+    text-align: center;
+}
+
+
+/******************  header  *****************/
+
+#headerContainer {
+    border-top: 3px solid #646464;
+    border-bottom: 3px solid #646464;
+    height: 60px;
+}
+
+#headerImgTitle {
+    padding-top: 5px;
+    height: 50px;
+    width: 230px;
+    margin: 0 auto;
+}
+
+#imgContainer {
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+#headeTitle {
+    float: right;
+    margin-top: 13px;
+}
+
+
+/****************** User Data  *****************/
+
+#usersContainer {
+    border-top: 2px groove #646464;
+    margin-top: 40px;
+    height: 540px;
+}
+
+#userInfo {
+    border-left: 2px groove #646464;
+    float: right;
+    height: 540px;
+    width: 80%;
+}
+
+#img {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 250px;
+    height: 250px;
+}
+
+#borederLabel {
+    margin: auto;
+    border-top: 2px solid #646464;
+    border-bottom: 2px solid #646464;
+    width: 1040px;
+    padding: 10px;
+}
+
+.label {
+    float: left;
+    margin: 0 auto;
+}
+
+#labelData {
+    font-weight: bold;
+    margin-right: 440px;
+}
+
+#bio {
+    width: 1040px;
+    padding: 5px;
+    margin: 0 auto;
+}
+
+#bioData {
+    margin-left: 200px;
+    margin-top: 10px;
+    width: 600px;
+}
+
+#bioheader {
+    margin-top: 50px;
+}
+
+#userList {
+    float: left;
+    height: 540px;
+    width: 19.1%;
+}
+
+td {
+    text-align: center;
+    margin: 0 auto;
+}
+
+table {
+    width: 100%;
+    height: auto;
+}
+
+#button {
+    border-style: groove;
+    border-radius: 4px;
+}
